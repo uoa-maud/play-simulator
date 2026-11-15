@@ -1,6 +1,6 @@
 'use strict';
 
-// Copied from jakalnz/pta-simulator js/utils.js, de-modularized to a plain
+// Copied from uoa-maud/pta-simulator js/utils.js, de-modularized to a plain
 // global (this repo loads scripts via <script src> rather than ES modules,
 // matching childModel.js/scheduler.js).
 //

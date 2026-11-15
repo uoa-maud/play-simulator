@@ -1,6 +1,6 @@
 'use strict';
 
-// Copied from jakalnz/pta-simulator js/noise-player.js, de-modularized.
+// Copied from uoa-maud/pta-simulator js/noise-player.js, de-modularized.
 // Audible narrowband masking noise, synthesised (band-pass-filtered white
 // noise centred on the current frequency). Loops continuously while masking
 // is switched on, independent of tone presentation (real audiometric

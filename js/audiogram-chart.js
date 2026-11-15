@@ -1,6 +1,6 @@
 'use strict';
 
-// Copied from jakalnz/pta-simulator js/audiogram-chart.js, de-modularized.
+// Copied from uoa-maud/pta-simulator js/audiogram-chart.js, de-modularized.
 // Pure canvas drawing — no other engine/model dependencies beyond
 // PtaUtils.DB_MIN/DB_MAX (js/utils.js must load first).
 (function () {

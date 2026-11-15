@@ -1,6 +1,6 @@
 'use strict';
 
-// Copied from jakalnz/pta-simulator js/masking-logic.js, de-modularized.
+// Copied from uoa-maud/pta-simulator js/masking-logic.js, de-modularized.
 // Depends on PtaUtils.OTHER_EAR (js/utils.js must load first).
 (function () {
   const OTHER_EAR = window.PtaUtils.OTHER_EAR;

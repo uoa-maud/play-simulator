@@ -1,6 +1,6 @@
 'use strict';
 
-// Copied from jakalnz/pta-simulator js/keyboard-shortcuts.js, de-modularized.
+// Copied from uoa-maud/pta-simulator js/keyboard-shortcuts.js, de-modularized.
 // Space = press-and-hold Present (mirrors the Present button's own
 // pointerdown/pointerup pattern), arrows = level/frequency, Shift+arrows =
 // masking level, M = toggle masking, S = Store, Delete = delete stored

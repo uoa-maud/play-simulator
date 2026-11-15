@@ -1,6 +1,6 @@
 'use strict';
 
-// Copied unchanged from jakalnz/pta-simulator js/obfuscate.js, de-modularized.
+// Copied unchanged from uoa-maud/pta-simulator js/obfuscate.js, de-modularized.
 //
 // Casual-snooping deterrent only — NOT real security. XOR+base64 against a
 // hardcoded key that lives in this file's own source, so anyone reading the

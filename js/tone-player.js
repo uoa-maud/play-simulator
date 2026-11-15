@@ -1,6 +1,6 @@
 'use strict';
 
-// Copied from jakalnz/pta-simulator js/tone-player.js, de-modularized.
+// Copied from uoa-maud/pta-simulator js/tone-player.js, de-modularized.
 // Optional audible preview of the stimulus tone for the instructor's benefit
 // — separate from, and has no effect on, the simulated patient's response
 // logic. Plays for as long as start()..stop() is held open, mirroring a

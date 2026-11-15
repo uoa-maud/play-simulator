@@ -1,6 +1,6 @@
 'use strict';
 
-// Adapted from jakalnz/pta-simulator js/ui-controls.js, de-modularized.
+// Adapted from uoa-maud/pta-simulator js/ui-controls.js, de-modularized.
 // Reuses wireUi's DOM wiring, display-bar refresh, and sound/hints toggles
 // as-is. Two changes from the source:
 //   1. Only a combined-view audiogram (dom.audiogramCanvas) — the source's

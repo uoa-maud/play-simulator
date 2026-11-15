@@ -1,7 +1,7 @@
 'use strict';
 
 // Step 9 — generic base64url-in-hash share links. Ported from the *pattern*
-// of jakalnz/pta-simulator's js/share-link.js, but not hardwired to one
+// of uoa-maud/pta-simulator's js/share-link.js, but not hardwired to one
 // serializer: pta-simulator has exactly one shareable thing (a session) and
 // uses a bare `#d=...` hash; this app has two (cases, from step 8, and
 // results, from step 7) that must never be confusable with each other, so

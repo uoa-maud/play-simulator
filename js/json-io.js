@@ -1,7 +1,7 @@
 'use strict';
 
 // Step 9 — generic .json export/import. Ported from the *pattern* of
-// jakalnz/pta-simulator's js/json-io.js, generalized the same way as
+// uoa-maud/pta-simulator's js/json-io.js, generalized the same way as
 // js/share-link.js: not tied to one serializer, callers pass already-
 // serialized data and handle deserialization themselves.
 //

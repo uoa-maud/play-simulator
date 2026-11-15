@@ -1,6 +1,6 @@
 'use strict';
 
-// Adapted from jakalnz/pta-simulator js/audiometer-engine.js, de-modularized.
+// Adapted from uoa-maud/pta-simulator js/audiometer-engine.js, de-modularized.
 //
 // Ear/mode/transducer/masking dial state, plateau tracking, and stored-point
 // bookkeeping are copied largely as-is. The one deliberate change from the
